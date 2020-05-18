@@ -9,4 +9,6 @@ Zrealizowane układy umozliwają pomiar widma w zakresie 309-878 nm w czasie rze
 Przeprowadzono kalibrację mikorspektrometru. Określona została rozdzielczość mikrospektrometru oraz wpływ 
 czasu integracji na intensywność sygnału pomiarowego. Układ sterownika z mikrospektrometrem został przetestowany 
 podczas pomiarów źródeł promieniowania optycznego (LED, jarzeniówki i świetlówki). Szereg przeprowadzonych testów
-potwierdza, że zaprojektowane sterowniki umożliwią pomiar widma sygnału o różnej intensywności promieniowania. 
+potwierdza, że zaprojektowane sterowniki umożliwią pomiar widma sygnału o różnej intensywności promieniowania.
+
+![image](https://user-images.githubusercontent.com/24828237/82222500-a934c600-9921-11ea-80e5-17a50ec87adf.png)
